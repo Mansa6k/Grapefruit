@@ -26,6 +26,18 @@ In this project, the goal is to predict customer churn for a telecom company usi
 
 * Customers with Fiber optic service have the highest churn rate, followed by those with DSL service.
 
+#visualization showing the relationship between tenure and MonthlyCharges
+![bokeh_plot](https://user-images.githubusercontent.com/118853744/231637821-ca386e20-e325-479c-adbe-de90ca6e5f25.png)
+
+* Segment 0 has high monthly charges and long tenure, which may indicate high-value customers who are willing to pay more for the service and have been loyal to the company for a longer time.
+
+* Segment 1 has low monthly charges and short tenure, which may indicate that these customers are not as valuable to the company and may be more likely to churn.
+
+* Segment 2 has high monthly charges but short tenure, which may indicate that these customers are not fully satisfied with the service and may be at a higher risk of churning.
+
+* Segment 3 has low monthly charges and long tenure, which may indicate customers who have been loyal to the company for a long time despite lower pricing.
+
+
 
 ## Technologies
 The following technologies were used in this project:
