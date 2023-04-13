@@ -3,6 +3,12 @@
 ## Overview
 In this project, the goal is to predict customer churn for a telecom company using advanced data analysis and machine learning techniques. By accurately identifying at-risk customers, targeted retention strategies can be implemented, enhancing customer satisfaction and boosting revenue.
 
+# Visualizations
+
+# Proportion of churned and retained customers 
+
+<img width="997" alt="gender x churn" src="https://user-images.githubusercontent.com/118853744/231631785-6fd8737e-b97c-48ee-8eb9-49a80dced8eb.png">
+
 ## Technologies
 The following technologies were used in this project:
 - Python
