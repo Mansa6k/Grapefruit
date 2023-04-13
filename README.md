@@ -12,8 +12,8 @@ The following technologies were used in this project:
 - Matplotlib
 - Seaborn
 - hvplot
--warning
--pathlib 
+- warning
+- pathlib 
 
 # Installation Guide
 
