@@ -8,6 +8,7 @@ In this project, the goal is to predict customer churn for a telecom company usi
 # Proportion of churned and retained customers 
 
 <img width="999" alt="contract x churn" src="https://user-images.githubusercontent.com/118853744/231636002-ab43b7ba-d71f-4d91-8a0d-2ba81bfa03b7.png">
+
 # Customers with month-to-month contracts have the highest churn rate, while those with two-year contracts have the lowest churn rate.
 
 
