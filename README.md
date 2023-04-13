@@ -37,7 +37,10 @@ In this project, the goal is to predict customer churn for a telecom company usi
 
 * Segment 3 has low monthly charges and long tenure, which may indicate customers who have been loyal to the company for a long time despite lower pricing.
 
+# Model performance comparison
+<img width="812" alt="report" src="https://user-images.githubusercontent.com/118853744/231640832-b5f644de-f795-4146-a1a6-656aad96099f.png">
 
+* The Random Forest model performs better in predicting customer churn compared to the Logistic Regression model. It has higher precision, better recall for the 'Yes' class, and a higher F1-score. Random Forest models are generally more robust and can capture complex interactions between features, making it a more suitable choice for predicting churn in this case.
 
 ## Technologies
 The following technologies were used in this project:
