@@ -12,6 +12,9 @@ In this project, the goal is to predict customer churn for a telecom company usi
 # Customers with month-to-month contracts have the highest churn rate, while those with two-year contracts have the lowest churn rate.
 
 
+
+
+
 <img width="999" alt="paymentmethod x churn" src="https://user-images.githubusercontent.com/118853744/231636326-925d3bac-beae-4295-b0f7-a7d48cd15a4c.png">
 Customers using electronic check payments have the highest churn rate, while those using credit card (automatic) payments have the lowest churn rate.
 
