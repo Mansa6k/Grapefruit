@@ -7,7 +7,8 @@ In this project, the goal is to predict customer churn for a telecom company usi
 
 # Proportion of churned and retained customers 
 
-<img width="997" alt="gender x churn" src="https://user-images.githubusercontent.com/118853744/231631785-6fd8737e-b97c-48ee-8eb9-49a80dced8eb.png">
+<img width="997" alt="gender x churn" src="https://user-images.githubusercontent.com/118853744/231631785-6fd8737e-b97c-48ee-8eb9-49a80dced8eb.png">  <img width="997" alt="gender x churn" src="https://user-images.githubusercontent.com/118853744/231631894-adf418ee-65d2-4462-baba-41122ec7b3c4.png">
+
 
 ## Technologies
 The following technologies were used in this project:
