@@ -1,7 +1,7 @@
 # # Telecom customer churn prediction
 
 ## Overview
-In this project, I aim to predict customer churn in a telecommunications company. I will analyze customer data and develop a machine learning model that can identify customers at risk of leaving the company. By identifying these customers, the company can take appropriate action to retain them, improving customer satisfaction and increasing overall revenue.
+In this project, the goal is to predict customer churn for a telecom company using advanced data analysis and machine learning techniques. By accurately identifying at-risk customers, targeted retention strategies can be implemented, enhancing customer satisfaction and boosting revenue.
 
 ## Technologies
 The following technologies were used in this project:
